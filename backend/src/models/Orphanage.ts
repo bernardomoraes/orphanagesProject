@@ -34,5 +34,5 @@ export default class Orphanage {
     // Primeiro Parâmetro: Função que indica o tipo do Retorno.
     // Segundo Parâmetro: Dado uma imagem que eu recebi qual o campo que retorna o relacionamento inverso.
     // Terceiro parâmetro.
-    images: Image[]
+    images: Image[];
 }
